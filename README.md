@@ -42,3 +42,7 @@ hi there, i'm shazad . i love to tinker with electronics , build projects and de
 - I mainly focus on real-world problem solving  
 - I Have built projects under time constraints (improving) 
 - I combine both hardware and software systems and try to make it as stable and stream-lined as possible  
+
+
+contacts:
+shazadshahaludeen@gmail.com
