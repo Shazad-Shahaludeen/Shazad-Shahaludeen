@@ -4,6 +4,9 @@ DOB: 20 July 2010
 
 hi there, i'm shazad . i love to tinker with electronics , build projects and develop softwares for said projects :)+
 
+Student | Electronics & Embedded Systems
+Building real-world problem solving devices (AgroPen, etc.)
+YIP 8.0 District Winner
 
 ## Achievements
 - **YIP 8.0** — Prelim & District Winner, State-Level Participant  
