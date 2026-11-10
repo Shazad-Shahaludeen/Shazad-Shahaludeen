@@ -8,6 +8,9 @@ Student | Electronics & Embedded Systems
 Building real-world problem solving devices (AgroPen, etc.)
 YIP 8.0 District Winner
 
+Student developer exploring embedded systems, robotics, electronics, and applied AI. Building real-world engineering projects including AgroPen and SAGE.
+
+
 ## Achievements
 - **YIP 8.0** — Prelim & District Winner, State-Level Participant  
 - **Sahodaya Science Exhibition** — 1st Place, 3rd Place  
