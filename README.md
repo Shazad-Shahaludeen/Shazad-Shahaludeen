@@ -15,6 +15,17 @@ Student developer exploring embedded systems, robotics, electronics, and applied
 
 Building real-world engineering projects, including **SAGE (Soil Agricultural Guidance Engine)**.
 
+Featured Projects
+
+🌱 SAGE – Soil Agricultural Guidance Engine
+
+An open-source precision agriculture project developing a portable soil monitoring device (AgroPen), ESP32-based sensing, Raspberry Pi integration, and an agricultural dashboard.
+
+"View SAGE Repository" (https://github.com/Shazad-Shahaludeen/SAGE-Soil-Agricultural-Guidance-Engine-)
+
+⚙️ More Projects
+
+Exploring robotics, embedded systems, electronics, and applied AI through hands-on engineering projects.
 
 ## Achievements
 - **YIP 8.0** — Prelim & District Winner, State-Level Participant  
