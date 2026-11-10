@@ -1,6 +1,5 @@
 # Shazad Shahaludeen
-
-DOB: 20 July 2010  
+ 
 
 hi there, i'm shazad . i love to tinker with electronics , build projects and develop softwares for said projects :)+
 
@@ -9,6 +8,12 @@ Building real-world problem solving devices (AgroPen, etc.)
 YIP 8.0 District Winner
 
 Student developer exploring embedded systems, robotics, electronics, and applied AI. Building real-world engineering projects including AgroPen and SAGE.
+
+## About Me
+
+Student developer exploring embedded systems, robotics, electronics, and applied AI.
+
+Building real-world engineering projects, including **SAGE (Soil Agricultural Guidance Engine)**.
 
 
 ## Achievements
